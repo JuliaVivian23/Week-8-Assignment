@@ -1,0 +1,39 @@
+body{
+	background-color: whitesmoke;
+}
+
+
+.no-uno{
+	background-color: lightcoral;
+	color: black;
+}
+
+.footer{
+	background-color: lightgoldenrodyellow;
+	height: 10vh;
+	border: 2px solid black;
+}
+.col1{
+	background-color: mediumpurple;
+	color: yellow;
+	border: solid 6px black;
+}
+.nestingcol{
+	background-color: blue;
+	height: 10vh;
+	color: #fff;
+}
+.nestingcol2{
+	background-color: pink;
+	height: 10vh;
+	color: #fff;
+}
+.smallcol{
+	background-color: grey;
+	color: white;
+
+}
+.smallcol2{
+	background-color: orange;
+	color: white;
+}

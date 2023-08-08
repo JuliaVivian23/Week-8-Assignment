@@ -1,0 +1,28 @@
+.box{
+	font-weight: bold;
+}
+
+.tr-box{
+	text-align: right;
+}
+
+.thead-color{
+background-color: rgb(132, 134, 150);	
+}
+
+.calculator{
+	text-align: center;
+}
+
+.border-color{
+	background-color: rgb(224, 224, 224);
+}
+
+.b-colortwo{
+	background-color: rgb(225, 141, 26);
+}
+
+.lines{
+	border: 0.8px solid rgb(132, 134, 150) !important;
+	border-left: none;
+}
